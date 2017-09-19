@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@zdy/react-native-media": "^1.0.0",
+    "@zdy/react-native-toolbar": "^1.0.0"
+  },
+  "name": "@zdy/react-native-media-displayer",
+  "version": "1.0.0",
+  "description": "react native media displayer",
+  "main": "index.js",
+  "author": "ZackLeonardo <maiz9088@icloud.com>",
+  "license": "MIT"
+}
