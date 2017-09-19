@@ -17,9 +17,11 @@ yarn add file:/...path.../react-native-media-displayer
 ## Example
 Check in the `example` folder.
 
-![Demo](https://github.com/ZackLeonardo/react-native-media/blob/master/example/photo.png)
+![Demo](https://github.com/ZackLeonardo/react-native-media-displayer/blob/master/example/media%20in%20grid.png)
 
-![Demo](https://github.com/ZackLeonardo/react-native-media/blob/master/example/video.png)
+![Demo](https://github.com/ZackLeonardo/react-native-media-displayer/blob/master/example/photo%20in%20full%20screen.png)
+
+![Demo](https://github.com/ZackLeonardo/react-native-media-displayer/blob/master/example/video%20in%20full%20screen.png)
 
 ## License
 
