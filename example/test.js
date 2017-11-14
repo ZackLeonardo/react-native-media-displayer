@@ -10,8 +10,7 @@ import {
   Button,
 } from 'react-native';
 
-import { StackNavigator } from 'react-navigation';
-import MediaBrowser from '@zdy/react-native-media-displayer';
+import { MediaBrowser } from '@zdy/react-native-media-displayer';
 import mmm from './media/movie.mp4';
 
 const mediaList = [
